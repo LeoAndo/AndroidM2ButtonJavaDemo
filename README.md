@@ -4,7 +4,7 @@
 ----|--
 | <img src="./1.png" width=320 /> | <img src="./2.png" width=320 /> |
 
-# Button color customize (only light theme)
+# Button color customize (light adn dark theme)
 
 ## 手順１：自分の好きな色を定義する
 
@@ -12,8 +12,10 @@ color.xmlに以下のような感じでカラーコードを定義する<br>
 https://github.com/LeoAndo/AndroidM2ButtonJavaDemo/blob/master/app/src/main/res/values/colors.xml#L11-L12
 
 ## 手順２：アプリで使うボタンの色を一括で変更する方法
-
-https://github.com/LeoAndo/AndroidM2ButtonJavaDemo/blob/master/app/src/main/res/values/themes.xml#L5
+light theme<br>
+https://github.com/LeoAndo/AndroidM2ButtonJavaDemo/blob/master/app/src/main/res/values/themes.xml#L5<br>
+dark theme<br>
+https://github.com/LeoAndo/AndroidM2ButtonJavaDemo/blob/master/app/src/main/res/values-night/themes.xml#L5
 
 ## 手順３：部分的にボタンの色を変える方法
 
