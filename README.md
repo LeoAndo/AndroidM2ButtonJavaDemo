@@ -4,7 +4,7 @@
 ----|--
 | <img src="./1.png" width=320 /> | <img src="./2.png" width=320 /> |
 
-# Button color customize (light adn dark theme)
+# Button color customize (light and dark theme)
 
 ## 手順１：自分の好きな色を定義する
 
