@@ -2,7 +2,7 @@
 
 | light theme | dark |
 ----|--
-| <img src="./1.png" width=50% /> | <img src="./2.png" width=50% /> |
+| <img src="./1.png" width=320 /> | <img src="./2.png" width=320 /> |
 
 # Button color customize (only light theme)
 
